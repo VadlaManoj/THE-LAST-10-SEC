@@ -10,7 +10,7 @@
 
 ## 🎮 Play the MVP
 
-### 👉 [⚡ PLAY THE LAST 10 SECONDS](./index.html)
+### 👉 [⚡ PLAY THE LAST 10 SECONDS](https://vadlamanoj.github.io/THE-LAST-10-SEC/)
 
 > If this project is published with GitHub Pages, the same button can be changed to the public Pages URL.
 
@@ -290,3 +290,4 @@ The visual images in this README are **concept/UI reference images generated for
 **The Last 10 Seconds**
 
 A small experimental puzzle game focused on time, repetition, and cooperation with your past self.
+
