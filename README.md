@@ -174,38 +174,6 @@ http://localhost:5500
 
 ---
 
-## 🌐 Publish With GitHub Pages
-
-1. Create a GitHub repository.
-2. Upload:
-   - `index.html`
-   - `README.md`
-   - `assets/`
-3. Go to:
-
-```text
-Settings → Pages
-```
-
-4. Select:
-
-```text
-Deploy from a branch
-Branch: main
-Folder: / (root)
-```
-
-5. Save.
-
-GitHub will provide a public URL similar to:
-
-```text
-https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/
-```
-
-Then replace the `PLAY THE LAST 10 SECONDS` link near the top of this README with that public URL.
-
----
 
 ## 🎯 MVP Scope
 
